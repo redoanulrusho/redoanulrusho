@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm REDOANUL KARIM RUSHO</h1>
-<h3 align="center">A CSE undergrad student from Khula University of Engineering & Technology</h3>
+<h3 align="center">A CSE undergrad student from Khula University of Engineering & Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redoanulrusho&label=Profile%20views&color=0e75b6&style=flat" alt="redoanulrusho" /> </p>
 
